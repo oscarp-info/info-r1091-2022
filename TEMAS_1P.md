@@ -66,10 +66,10 @@
 - [x] Fundamentos de string y carácter. 
   - [x] Definicion 
   - [x] Inicializacion
-  - [x] strlen. "whitespaces" en C. Tamaño del array vs tamaño del string
-  - [x] sizeof vs strlen. 
-  - [x] entrada/salida => printf-scanf, puts-fgets
-  - [x] gets obsoleta. porque?
+  - [x] strlen 
+  - [x] sizeof vs strlen. Tamaño del array vs tamaño del string
+  - [x] entrada/salida => printf-scanf, puts-fgets |  "whitespaces" en C
+  - [x] gets obsoleta. porque? buffer overflow?
   - [x] recorrer un string con for/while
   - [x] strings y funciones
   - [x] strings y punteros 

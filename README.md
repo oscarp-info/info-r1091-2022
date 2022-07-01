@@ -8,3 +8,4 @@ Link al Aalendario Academico 2022 [Calendario Academico](https://frba.utn.edu.ar
 ## Novedades
 
 * Primer Parcial, "12 de Agosto", es la primer clase luego del receso por vacaciones y examenes finales.
+
