@@ -1,5 +1,8 @@
 ### Sistemas Operativos 
 
+_[x] completado_
+_[]  pendiente_
+
 - [x] Conceptos Básicos sobre Sistemas Operativos modernos. Objeto y Funciones principales de un sistema operativo.
 
 
@@ -60,6 +63,7 @@
 - [ ] Algoritmos de ordenamiento: intercambio o burbujeo, inserción, qsort, seleccion. Ordenamiento por más de un criterio. 
 - [ ] Algoritmos de búsqueda en arreglos: secuencial y binaria 
 - [ ] Algoritmos de inserción en arreglos.
+- [ ] Arrays asociados
 
 ### Cadena de caracteres
 
@@ -74,12 +78,12 @@
   - [x] strings y funciones
   - [x] strings y punteros 
   - []  Asignacion, comparacion y concatenacion de strings
-- [x] Desarrollo de funciones asociadas
+- [] Desarrollo de funciones asociadas
 	- [] strlen, strcpy, strcat, strcmp, strchr, strstr
 	- [] atoi, itoa
 	- [] sprintf
-- [] arrays de string
-- [] string Literal: char *p = "Hola Mundo". Introduccion a zona de memoria "read only"
+- [x] arrays de string
+- [x] string Literal: char *p = "Hola Mundo". Introduccion a zona de memoria "read only"
 
 
 ### Punteros
